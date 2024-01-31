@@ -33,7 +33,7 @@ See `./artifacts/step 2 - bot-father.png`
 - the username must end with "bot"<br />
 - the username can only have letters, numbers, and underscores<br />
 
-### v0.0.3 <small>(commit [8ee04d8](https://github.com/Hero-Development/degen-dex-agent/commit/8ee04d8dbee225f027cd4b5c968a1417139a38f2))</small>
+### v0.0.3 <small>(commit [96e0025](https://github.com/Hero-Development/degen-dex-agent/commit/96e0025699794cce8958b786542f2dd7e6a50662))</small>
 First steps with your degen bot
 
 Grab the first codeblock from the [PTB intro page](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions---Your-first-Bot#your-first-bot-step-by-step)<br />
